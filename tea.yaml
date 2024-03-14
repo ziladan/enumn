@@ -6,8 +6,7 @@ version: 2.0.0
 # 代码所有者列表
 codeOwners:
   - '0xD15fB90Be9a695A8eC6c66f594E52E6263e1A2aC'
-  - '0xAnotherCodeOwner'
-  # 可以添加更多代码所有者
+# 可以添加更多代码所有者
 
 # 最小批准数
 quorum: 2  # 至少需要两个所有者批准
